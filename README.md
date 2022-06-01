@@ -22,15 +22,15 @@ Profile card component
 ### Screenshot
 
 Desktop view
-![](./screenshots/desktop-view.png.jpg)
+![](./screenshots/desktop-view.png)
 
 Mobile view
-![](./screenshots/mobile-view.png.jpg)
+![](./screenshots/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-m6z2H3g7KQ)
+- Live Site URL: [Live site URL here](https://profile-card-component-dnr.pages.dev/)
 
 ### Built with
 
